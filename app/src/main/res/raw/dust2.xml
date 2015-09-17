@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<map>
+    <question>
+
+        <answer>Goose</answer>
+        <incorrect>Corner,Back-Plat,Back-Site,Wall</incorrect>
+        <position>90,20,170,90</position>
+
+    </question>
+    <question>
+
+        <answer>Elevator</answer>
+        <incorrect>CT Spawn,Boxes,A-Ramp,Corner</incorrect>
+        <position>20,20,100,90</position>
+
+    </question>
+    <question>
+
+        <answer>Pit</answer>
+        <incorrect>Ramp,Tunnel,Door,Sand</incorrect>
+        <position>200,20,10,90</position>
+
+    </question>
+
+
+
+</map>
